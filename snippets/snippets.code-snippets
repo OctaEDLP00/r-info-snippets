@@ -1,0 +1,49 @@
+{
+  "Base file R-Info": {
+    "scope": "ri",
+    "prefix": "--B ri",
+    "body": [
+      "programa Cap$1Ejercicio$2",
+      "areas",
+      "\tciudad: AreaC(1,1,100,100)",
+      "robots",
+      "\trobot robot1",
+      "comenzar",
+      "\t$3",
+      "fin",
+      "variables",
+      "\tR-info: robot1",
+      "comenzar",
+      "\tAsignarArea(R-info,ciudad)",
+      "\tIniciar(R-info,1,1)",
+      "fin"
+    ],
+    "description": "Create a simple template R-Info file"
+  },
+  "Design Modularized R-Info": {
+    "scope": "ri",
+    "prefix": "--M ri",
+    "body": [
+      "programa Cap$1Ejercicio$2",
+      "procesos",
+      "\tproceso $3 {(params)}",
+      "\tcomenzar",
+      "\t\t$4",
+      "\tfin",
+      "areas",
+      "\tciudad: AreaC(1,1,100,100)",
+      "robots",
+      "\trobot robot1",
+      "comenzar",
+      "\t",
+      "fin",
+      "variables",
+      "\tR-info: robot1",
+      "comenzar",
+      "\tAsignarArea(R-info,ciudad)",
+      "\tIniciar(R-info,1,1)",
+      "fin"
+    ],
+    "description": "Create a simple template with design Top-Down(Modularization) R-Info file"
+  }
+}

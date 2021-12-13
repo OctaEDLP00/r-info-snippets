@@ -1,0 +1,20 @@
+{
+    "name": "r-info-snippets",
+    "displayName": "R-info Snippets",
+    "description": "snippets of the R-Info language used in the Faculty of Informatica at UNLP",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "ri",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}
