@@ -1,8 +1,13 @@
 {
     "name": "r-info-snippets",
     "displayName": "R-info Snippets",
-    "description": "snippets of the R-Info language used in the Faculty of Informatica at UNLP",
-    "version": "0.0.1",
+    "description": "Snippets of the R-Info language used in the Faculty of Informatica at UNLP",
+    "version": "1.0.0",
+    "publisher": "devmetal00",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Octa-Uni-Progr-Analyst00/r-info-snippets"
+    },
     "engines": {
         "vscode": "^1.63.0"
     },
