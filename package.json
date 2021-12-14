@@ -2,7 +2,7 @@
     "name": "r-info-snippets",
     "displayName": "R-info Snippets",
     "description": "Snippets of the R-Info language used in the Faculty of Informatica at UNLP",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "publisher": "devmetal00",
     "repository": {
         "type": "git",
@@ -11,7 +11,9 @@
     "engines": {
         "vscode": "^1.63.0"
     },
-    "categories": ["Snippets"],
+    "categories": [
+        "Snippets"
+    ],
     "contributes": {
         "snippets": [
             {
