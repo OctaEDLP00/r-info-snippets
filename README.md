@@ -28,19 +28,6 @@
 > If you want to create a modularized file type this command:
 `--M ri`
 
-------------------------------------------
-
-# Changelog
-
-### 1.0.0
-
-- Initial release 🎉 🙌 
-
-<br>
-<br>
-<br>
-<br>
-
 Enjoy! 🎉🎊
 
 <br>
